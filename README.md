@@ -22,3 +22,15 @@ My daily journey of learning and solving Data Structures & Algorithms problems.
 ## Goal
 
 Solve DSA problems consistently and improve problem-solving skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
