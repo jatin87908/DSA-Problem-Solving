@@ -28,6 +28,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -42,4 +43,12 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
