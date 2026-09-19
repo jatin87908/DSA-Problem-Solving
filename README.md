@@ -42,6 +42,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -54,5 +55,6 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
