@@ -39,6 +39,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,8 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0151-reverse-words-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
