@@ -30,6 +30,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | ------- |
 | [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | ------- |
 | [0125-valid-palindrome](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0344-reverse-string) |
 ## Matrix
@@ -77,4 +79,8 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
