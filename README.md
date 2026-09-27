@@ -68,6 +68,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0125-valid-palindrome](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 ## Number Theory
 |  |
@@ -78,6 +79,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | ------- |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +90,12 @@ Solve DSA problems consistently and improve problem-solving skills.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
