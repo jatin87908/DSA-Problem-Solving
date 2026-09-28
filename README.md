@@ -34,6 +34,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
