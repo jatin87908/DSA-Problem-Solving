@@ -28,6 +28,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,6 +68,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
@@ -81,6 +83,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +91,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
