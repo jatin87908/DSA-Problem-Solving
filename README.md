@@ -36,6 +36,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0500-keyboard-row) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0500-keyboard-row) |
 | [1108-defanging-an-ip-address](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Number Theory
@@ -89,6 +91,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0500-keyboard-row) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
