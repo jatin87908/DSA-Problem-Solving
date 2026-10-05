@@ -34,6 +34,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | ------- |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -101,11 +104,13 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
@@ -120,4 +125,8 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
