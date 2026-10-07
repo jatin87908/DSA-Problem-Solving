@@ -48,6 +48,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
@@ -141,4 +142,12 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
