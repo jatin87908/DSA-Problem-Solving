@@ -40,6 +40,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0500-keyboard-row) |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -152,4 +155,24 @@ Solve DSA problems consistently and improve problem-solving skills.
 | ------- |
 | [0002-add-two-numbers](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
