@@ -30,6 +30,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | ------- |
 | [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -106,6 +108,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0242-valid-anagram) |
