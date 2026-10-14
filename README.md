@@ -43,6 +43,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
@@ -126,6 +127,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
 |  |
 | ------- |
@@ -195,4 +197,8 @@ Solve DSA problems consistently and improve problem-solving skills.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
