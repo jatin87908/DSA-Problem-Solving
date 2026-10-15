@@ -28,6 +28,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0075-sort-colors) |
@@ -124,6 +125,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
