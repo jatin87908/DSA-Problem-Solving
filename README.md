@@ -47,6 +47,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0852-peak-index-in-a-mountain-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3668-restore-finishing-order](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/3668-restore-finishing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0500-keyboard-row](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3668-restore-finishing-order](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
