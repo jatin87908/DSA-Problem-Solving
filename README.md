@@ -47,6 +47,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0852-peak-index-in-a-mountain-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/3668-restore-finishing-order) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
