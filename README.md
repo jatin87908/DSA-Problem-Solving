@@ -60,6 +60,7 @@ Solve DSA problems consistently and improve problem-solving skills.
 | [0189-rotate-array](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/0268-missing-number) |
+| [2469-convert-the-temperature](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/2469-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jatin87908/DSA-Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
